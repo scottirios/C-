@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\obj\Debug\Zoologico.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\obj\Debug\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\Zoologico\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
